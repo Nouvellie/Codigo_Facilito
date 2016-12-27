@@ -10,4 +10,4 @@ Cursos Hechos:
 
 -Curso para crear un juego de Naves en C++.
 
--Curso de Python Básico Gratis ... Cursando.
+-Curso de Python Básico Gratis ... Cursando (Nivel 7).
